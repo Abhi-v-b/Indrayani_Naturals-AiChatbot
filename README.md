@@ -227,4 +227,4 @@ This project is licensed under the Apache License 2.0 - see the [LICENSE](LICENS
 
 ---
 
-**Indrayani Naturals** - Bringing authentic Indian flavors to your kitchen since [Year]. 🌶️✨
+**Indrayani Naturals** - Bringing authentic Indian flavors to your kitchen since 2025. 🌶️✨
